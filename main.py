@@ -6,3 +6,4 @@ def hi(first_name: str):
     print(f"Hi {first_name}")
 
 
+hi("Patrick")
