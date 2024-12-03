@@ -7,3 +7,8 @@ def hi(first_name: str):
 
 
 hi("Patrick")
+bonjour("Patrick")
+
+
+
+
